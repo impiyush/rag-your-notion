@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "notion-chat"
+version = "0.1.0"
+description = ""
+authors = ["Piyush Agarwal <agarwalpiyush1188@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.2.11"
+langchain-community = "^0.2.10"
+sentence-transformers = "^3.0.1"
+chromadb = "^0.5.5"
+langchain-huggingface = "^0.0.3"
+langchain-ollama = "^0.1.0"
+langchain-chroma = "^0.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
