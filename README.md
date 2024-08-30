@@ -1,6 +1,6 @@
 # RAG your [Notion](https://www.notion.so/help/guides/what-is-notion)
 
-### THIS PROJECT IS STILL UNDER CONSTRUCTION AND NOT USE-ABLE YET, BUT YOU CAN REVIEW THE CODE FOR REFERENCE.
+### THIS PROJECT IS STILL UNDER CONSTRUCTION AND NOT USE-ABLE YET. FEEL FREE TO REVIEW THE CODE FOR REFERENCE.
 
 With the recent advancements in AI specific to LLMs, Retrieval Augmented Generation (RAG) has become a popular way to augment the context of LLMs at the time of response, to get specific answers to queries on data which the LLM was never trained on. This data could be your company specific data, or even your personal notes, which you are looking to get some answers from.
 
